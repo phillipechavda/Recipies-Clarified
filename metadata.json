@@ -1,0 +1,7 @@
+{
+  "name": "ChefFlow - Visual Recipe Mapper",
+  "description": "Transforms complex text recipes into intuitive, minimal-text flow diagrams using Gemini AI. Visualizes ingredients and preparation steps as a connected graph.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
